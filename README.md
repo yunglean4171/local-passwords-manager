@@ -1,4 +1,4 @@
-# Lepsza opcja enkrypcji: 
+**Lepsza opcja enkrypcji: **
 > https://www.nuget.org/packages/BCrypt.Net-Next/
 
 **Klucz do dekrypcji znajduje się w zasobach programu**
