@@ -1,0 +1,13 @@
+C:\Users\altai\source\repos\hasła\hasła\bin\Debug\hasła.exe.config
+C:\Users\altai\source\repos\hasła\hasła\obj\Debug\hasła.csproj.AssemblyReference.cache
+C:\Users\altai\source\repos\hasła\hasła\obj\Debug\hasła.csproj.SuggestedBindingRedirects.cache
+C:\Users\altai\source\repos\hasła\hasła\obj\Debug\hasła.Properties.Resources.resources
+C:\Users\altai\source\repos\hasła\hasła\obj\Debug\hasła.csproj.GenerateResource.cache
+C:\Users\altai\source\repos\hasła\hasła\obj\Debug\hasła.csproj.CoreCompileInputs.cache
+C:\Users\altai\source\repos\hasła\hasła\obj\Debug\hasła.exe
+C:\Users\altai\source\repos\hasła\hasła\obj\Debug\hasła.pdb
+C:\Users\altai\source\repos\hasła\hasła\obj\Debug\hasła.main.resources
+C:\Users\altai\source\repos\hasła\hasła\obj\Debug\hasła.dodajkarte.resources
+C:\Users\altai\source\repos\hasła\hasła\obj\Debug\hasła.dodajmaila.resources
+C:\Users\altai\source\repos\hasła\hasła\obj\Debug\hasła.dodajkonto.resources
+C:\Users\altai\source\repos\hasła\hasła\obj\Debug\hasła.dodajpozostale.resources
